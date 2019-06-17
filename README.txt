@@ -1,0 +1,1 @@
+This project is to add a Cloudformation template to create state engines, lambda functions, roles and etc.
